@@ -1,0 +1,3 @@
+First addition,income,150.16
+Second addition,other,23.0
+Third addition,income,0.23

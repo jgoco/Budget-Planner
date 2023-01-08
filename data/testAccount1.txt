@@ -1,0 +1,2 @@
+Testing,income,100.00
+Deduct,bills,23.50
