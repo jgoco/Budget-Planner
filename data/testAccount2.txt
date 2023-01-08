@@ -1,0 +1,10 @@
+pay cheque,income,1897.23
+water bill,bills,230.05
+groceries,necessities,64.05
+pay cheque,income,1800
+shoes,shopping,34.08
+McDonald's,dining,10.05
+electricity bill,bills,330.09
+pay cheque,income,500.04
+gift,other,150
+Castle Fun Park,recreation,100
